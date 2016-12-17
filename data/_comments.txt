@@ -1,0 +1,13 @@
+Common Event 2 STG - 雪山 Line 1:  - Comment: ステージデータの初期化
+Common Event 2 STG - 雪山 Line 3:  - Comment: ステージデータの書き込み
+Common Event 2 STG - 雪山 Line 64:  - Comment: 細かい設定
+Common Event 2 STG - 雪山 Line 75:  - Comment: シューティングゲームの開始
+Map 5 詩人の集落 - Event 1 EV001 (19,0) - Page 3 Line 12:  - Comment: //============================//
+Map 5 詩人の集落 - Event 1 EV001 (19,0) - Page 3 Line 13:  - Comment: //     ここから第2章          //
+Map 5 詩人の集落 - Event 1 EV001 (19,0) - Page 3 Line 14:  - Comment: //============================//
+Map 44 妖精の森(3/3) - Event 7 フェル (28,36) - Page 1 Line 113:  - Comment: // ここ↓にバトル挿入
+Map 45 シバレン村 - Event 21 EV021 (22,43) - Page 1 Line 125:  - Comment: //================================//
+Map 45 シバレン村 - Event 21 EV021 (22,43) - Page 1 Line 126:  - Comment: //　　　　　　　　　　　　　　　　//
+Map 45 シバレン村 - Event 21 EV021 (22,43) - Page 1 Line 127:  - Comment: //        第2章ここまで　　　　　 //
+Map 45 シバレン村 - Event 21 EV021 (22,43) - Page 1 Line 128:  - Comment: //　　　　　　　　　　　　　　　　//
+Map 45 シバレン村 - Event 21 EV021 (22,43) - Page 1 Line 129:  - Comment: //================================//
